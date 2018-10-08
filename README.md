@@ -23,8 +23,8 @@ You can find the latest version on the Chrome WebStore:
 Code contributors:
 
 [Martin](https://github.com/apphancer)
-https://github.com/merc2001
-https://github.com/knumat
+[merc2001] (https://github.com/merc2001)
+[knumat] (https://github.com/knumat)
 
 App icon is by [Maxim Basinski](https://www.iconfinder.com/vasabii)
 
