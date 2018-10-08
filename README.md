@@ -24,7 +24,7 @@ Code contributors:
 
 [Martin](https://github.com/apphancer)
 
-[merc2001] (https://github.com/merc2001)
+(https://github.com/merc2001)
 
 App icon is by [Maxim Basinski](https://www.iconfinder.com/vasabii)
 
