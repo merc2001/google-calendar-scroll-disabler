@@ -1,9 +1,12 @@
 var calendar_main_selector = 'div[role="main"]';
 var body = document.querySelector('body');
+var month_selector = 'div[data-active-view="month"]';
 
 var mousewheelHander = function (e) {
     if (e.target.id == 'el')
         return;
+    // Only disable scrolling when the calendar is in "Month" view
+    if (document.querySelectorAll(month_selector).length === 0) return;
     e.preventDefault();
     e.stopPropagation();
 }
