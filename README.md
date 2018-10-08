@@ -13,7 +13,11 @@ You can find the latest version on the Chrome WebStore:
 
 ## Changelog
 
+**1.0** - Fixed issue latest google calendar + added only disable scroll in month view
+
 **0.4** - This update solves our issue with the new Material Design UI. I greatly thank [Martin](https://github.com/apphancer) for his help with this.
+
+
 
 ## Credits
 Code contributors:
